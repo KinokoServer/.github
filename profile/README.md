@@ -1,12 +1,18 @@
-## Hi there 👋
+# こんにちは、世界！KinokoNetWork Discordへようこそ！
 
-<!--
+このサーバーは、Kinoko_2Kが運営する、マイクラクロスサーバーです！
 
-**Here are some ideas to get you started:**
+**硬い感じよりも柔らかい感じでゲームできる**サーバーを目指しています！！
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## プロジェクトリスト
+* `Kinokosystem`(Private) : Boooom鯖とか支えてるPlugin : [`KinokoServerでバグ報告`](https://github.com/kinokoserver/kinokoserver/issues/new/)
+* `PluginsConfigJapanese`(Public) : いろいろなPluginの日本語翻訳 : [`PluginConfigJapaneseでバグ報告`](https://github.com/kinokoserver/PluginConfigJapanese/issues/new)
+
+## URLリスト
+* ルールはrule.md
+* 公式サイト=>https://seesaawiki.jp/kinokonetwork/
+* この鯖の招待URL=>https://discord.gg/VdzXx892Zq
+* 運営応募URL=>https://mineidea.net/projects/4643268475
+* Minecraftサーバーリスト=>https://minecraft.jp/servers/kinoko.ddns.net
+* Monocraftサーバーリスト=>https://monocraft.net/servers/FdUeE0ngde7PKAAI98GJ
+* サーバ公式Twitter=>https://twitter.com/kinoko_network 
