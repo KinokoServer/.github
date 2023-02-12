@@ -13,3 +13,5 @@
 * Minecraftサーバーリスト=>https://minecraft.jp/servers/kinoko.ddns.net
 * Monocraftサーバーリスト=>https://monocraft.net/servers/FdUeE0ngde7PKAAI98GJ
 * サーバ公式Twitter=>https://twitter.com/kinoko_network 
+
+![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=kinokoServer&layout=compact&langs_count=10)
