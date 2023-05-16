@@ -1,4 +1,4 @@
-# こんにちは、世界！KinokoNetWork Discordへようこそ！
+# Hello World! KinokoNetWorkへようこそ！
 
 このサーバーは、Kinoko_2Kが運営する、マイクラサーバーです！
 
